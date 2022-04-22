@@ -1,3 +1,11 @@
+attenzione che queesto progetto usa una variabile d'ambiente
+`API_KEY`, dopo aver clonato il repo aggiungere un file `.env``
+nella root contenente:
+
+````
+REACT_APP_API_KEY=value
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
